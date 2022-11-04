@@ -1,0 +1,16 @@
+{
+    "short_name": "CV Foued Hassine",
+    "name": "CV Foued Hassine",
+    "icons": [
+        {
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#4070F4",
+    "background_color": "#ffffff"
+}
